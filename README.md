@@ -2,7 +2,7 @@
 
 <p align="left">
   🎓 Técnica em Informática formada pelo IFSULDEMINAS <br>
-  📚 Estudante de Ciência da Computação no IFSULDEMINAS - Campus Muzambinho <br>
+  📚 Estudante de Ciência da Computação no IFSULDEMINAS <br>
   💻 Desenvolvedora Full-Stack <br>
   📍 Minas Gerais, Brasil
 </p>
@@ -11,13 +11,12 @@
 
 ### 👩‍💻 Sobre mim
 
-Sou uma desenvolvedora apaixonada por resolver problemas e criar soluções eficientes. Minha trajetória une o desenvolvimento web com um forte interesse nas áreas de **Inteligência Artificial** (incluindo chatbots e Machine Learning Adversarial) e **Cibersegurança**.
+Sou uma desenvolvedora apaixonada por resolver problemas e criar soluções eficientes. Minha trajetória une o desenvolvimento web com um forte interesse nas áreas de **Inteligência Artificial** e **Cibersegurança**.
 
-*  **Atualmente trabalhando em:** Pesquisadora bolsista PIBIC (FAPEMIG/IFSULDEMINAS), desenvolvendo um sistema mobile e backend em Python com IA para análise de qualidade de forragem por visão computacional.
-*  **Aprendendo:** Aprofundando estudos em Machine Learning, React Native e integrações de modelos de IA.
-*  **Background:** Aluna do programa *Hackers do Bem*, com certificações Cisco concluídas e experiência de 2 anos em projetos de extensão universitária (incluindo a organização de workshops de tecnologia).
-*  **Pesquisa:** Autora de artigos acadêmicos publicados na área de tecnologia.
-*  **Objetivo:** Buscando ativamente oportunidades de estágio e pesquisa para aplicar meus conhecimentos.
+*  **Pesquisadora bolsista** PIBIC (FAPEMIG), desenvolvendo um sistema mobile e backend em Python com IA para análise de qualidade de forragem por visão computacional.
+*  Aluna do programa **Hackers do Bem**, com certificações Cisco concluídas e experiência de 2 anos em projetos de extensão universitária (incluindo a organização de workshops de tecnologia).
+*  Autora de **artigos acadêmicos publicados** na área de tecnologia.
+*  Buscando ativamente oportunidades de **estágio e pesquisa** para aplicar meus conhecimentos.
 
 ---
 
@@ -25,7 +24,7 @@ Sou uma desenvolvedora apaixonada por resolver problemas e criar soluções efic
 
 * **Rastreador de Ações B3:** Uma aplicação construída em Django para buscar, monitorar e comparar informações de ações da bolsa de valores brasileira.
 * **Chatbot Acadêmico:** Um assistente virtual desenvolvido com Dialogflow para responder automaticamente a dúvidas frequentes (FAQs) sobre o vestibular da minha instituição.
-* **Sistema de Agendamentos:** Website Full-Stack completo criado para o agendamento online de consultas.
+* **Sistema de Agendamentos:** Website Full-Stack completo criado para o agendamento online de consultas médicas.
 
 ---
 

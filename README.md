@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Eu sou a Rafaela Magalhães 👋</h1>
+<h1 align="left">Hello World! Prazer, sou a Rafaela Magalhães</h1>
 
 <p align="left">
   🎓 Técnica em Informática formada pelo IFSULDEMINAS <br>

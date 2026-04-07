@@ -28,12 +28,6 @@ Sou uma desenvolvedora apaixonada por resolver problemas e criar soluções efic
 
 ---
 
-### 📊 Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HttpsMagalhaes&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
-</div>
---- 
-
 ### 💻 Tecnologias e Ferramentas
 
 <div align="center">
